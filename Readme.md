@@ -31,3 +31,7 @@
 《莫斯科工人和1917年革命》->"Moscow Workers and the 1917 Revolution"
 
 《反抗的起源：俄国工人运动和组织的起源》->"Roots of Rebellion: Workers' Politics and Organizations in St. Petersburg and Moscow, 1900-1914"
+
+《俄国1905年革命：工人运动和孟什维克和布尔什维克的形成》->"Russian Revolution of 1905 Workers Movement and Formation of Bolshevism and Menshevism"
+
+《沙皇俄国时期的一名激进工人》->"A Radical Worker in Tsarist Russia The Autobiography of Semen Ivanovich Kanatchikov"
