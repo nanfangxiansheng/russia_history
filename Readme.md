@@ -1,3 +1,7 @@
+<img width="1080" height="1438" alt="image" src="https://github.com/user-attachments/assets/5b5388d6-31f7-49b3-9595-d3f95366268b" />
+
+“世界颠倒过来了！”
+
 # 本仓库的宗旨
 
 为俄罗斯历史爱好者提供国外学术专著的翻译版本。
